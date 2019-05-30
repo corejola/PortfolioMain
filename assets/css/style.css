@@ -1,0 +1,12 @@
+.name{
+    font-family: 'Righteous', cursive;
+}
+
+.card-body{
+    background-color: black;
+}
+.cardTitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
