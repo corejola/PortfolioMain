@@ -1,5 +1,16 @@
+/* body {
+    background-color: black;
+} */
+
+#id {
+    color: white;
+}
 .name{
     font-family: 'Righteous', cursive;
+}
+
+.projects {
+background-color: blue;
 }
 
 .card-body{
