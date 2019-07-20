@@ -22,6 +22,11 @@ background-color: blue;
     text-align: center
 }
 
-li {
+.linkList{
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+li {
+    padding: 10px;
 }
