@@ -32,6 +32,11 @@
     align-content: center;
     justify-content: center;
 }
+
+.lead {
+    font-family: 'Work Sans', sans-serif;
+}
+
 .projects {
 background-color: blue;
 }
