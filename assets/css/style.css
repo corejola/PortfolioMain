@@ -5,6 +5,11 @@
 #id {
     color: white;
 }
+
+.font {
+    font-family: 'Orbitron', sans-serif;
+}
+
 .name{
     font-size: 45px;
     font-family: 'Righteous', cursive;
@@ -22,6 +27,11 @@
     padding: 0 10px 0 10px
 }
 
+#flex {
+    display:flex;
+    align-content: center;
+    justify-content: center;
+}
 .projects {
 background-color: blue;
 }
