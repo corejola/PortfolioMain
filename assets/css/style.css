@@ -48,9 +48,9 @@ background-color: blue;
 
 .cardTitle {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Work Sans', sans-serif;
     text-align: center;
-    }
+}
 
 .linkList{
     list-style-type: none;
