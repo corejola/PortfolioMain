@@ -43,12 +43,13 @@ background-color: blue;
 
 .card-body{
     background-color: black;
+    height: "120px";
 }
 
 .cardTitle {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
 }
 
 .linkList{
