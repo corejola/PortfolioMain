@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Scrolling Nav Preview](https://startbootstrap.com/assets/img/templates/scrolling-nav.jpg)](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)
+[Scrolling Nav Preview](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)**
 
